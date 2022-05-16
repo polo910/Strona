@@ -29,3 +29,8 @@ a{
     width: 85%;
     float: right;
 }
+
+img{
+    width:50%;
+    margin-left: 25%;
+}
